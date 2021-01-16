@@ -55,28 +55,8 @@
 				items: [
 					{
 						name: 'Ngân Hàng MB Bank: ',
-						value: '4100172376886 <br> Đặng Hoàng Phúc - Chi Nhánh Hội sở chính',
+						value: '123 <br> ',
 					},
-					{
-						name: 'Ngân Hàng Agribank:',
-						value: '1401205101015 <br> Đặng Hoàng Phúc - Chi Nhánh Hà Nội 1'
-					},
-					{
-						name: 'QR Pay',
-						value: ''
-					},
-					{
-						name: 'Ví Momo',
-						value: '<a href="https://nhantien.momo.vn/Gjs532xiR34" target="_blank">https://nhantien.momo.vn/Gjs532xiR34</a>'
-					},
-					{
-						name: 'Paypal',
-						value: '<a href="https://paypal.me/phuchptty" target="_blank">https://paypal.me/phuchptty</a>'
-					},
-					{
-						name: 'Buy me a coffee',
-						value: '<a href="https://www.buymeacoffee.com/phuchptty" target="_blank">https://www.buymeacoffee.com/phuchptty</a>'
-					}
 				],
 			}
 		},

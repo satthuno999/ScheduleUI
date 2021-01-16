@@ -48,16 +48,16 @@
 				items: [
 					{
 						name: 'Tên Ứng Dụng',
-						value: 'KMA Schedule',
+						value: 'Vimaru Schedule',
 					},
 					{
 						name: 'Phiên Bản',
 						value: '1.0.0',
 					},
 					{
-						name: 'Viết Bởi',
+						name: 'Copyright',
 						value:
-							'<a href="https://danghoangphuc.com" target="_blank">Đặng Hoàng Phúc (AT16)</a> [<a href="https://havencode.net" target="_blank">Haven Code</a>]',
+							'<a href="https:/facebook.com/xuanbinh.vu.66464" target="_blank">Spark</a>',
 					},
 					{
 						name: 'Năm Phát Hành',
@@ -69,7 +69,7 @@
 					},
 					{
 						name: 'Source Code',
-						value: '<a href="https://github.com/Haven-Code/KMA-Schedule-Remaster" target="_blank">Github</a>',
+						value: '<a href="https://github.com/satthuno999/ScheduleUI" target="_blank">Github</a>',
 					},
 					{
 						name: 'Server',

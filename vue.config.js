@@ -3,7 +3,7 @@ module.exports = {
 		"vuetify"
 	],
 	pwa: {
-		name: 'KMA Schedule',
+		name: 'Vimaru Schedule',
 		themeColor: '#FFC107',
 		msTileColor: '#FFC107',
 		appleMobileWebAppCapable: 'yes',
